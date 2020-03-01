@@ -1,0 +1,5 @@
+require_relative '../lib/students.rb'
+require 'sqlite3'
+ require_relative '../bin/sql_runner.rb'
+
+
