@@ -8,3 +8,4 @@ require 'sqlite3'
 require_relative '../lib/students.rb'
  
 #b = SQLite3::Database.new('../db/students_database.db')
+
